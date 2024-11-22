@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OrganizarPorExtensao]
+@="Organizar por Extensão"
+"Icon"="C:\\Program Files\\OrganizadorArquivos\\organizador.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OrganizarPorExtensao\command]
+@="\"C:\\Program Files\\OrganizadorArquivos\\organizador.exe\" \"%V\""

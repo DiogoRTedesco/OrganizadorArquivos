@@ -5,7 +5,7 @@
 
 - pip install PyInstaller
 
-Adicionar caminho no .reg para o local onde vai ficar o .exe
+# Adicionar caminho no .reg para o local onde vai ficar o .exe
 
-clicar duas vezes .reg e instalar
+- clicar duas vezes .reg e instalar
 
